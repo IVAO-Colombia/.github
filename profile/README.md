@@ -7,8 +7,9 @@ The IVAO Colombia GitHub repository is a centralized platform for managing and s
 
 ## Repositories:
 - [NOTAM Tools](https://github.com/jj-sm/NOTAMs-CO-SQL): Scripts and utilities for parsing and managing NOTAMs in Colombian airspace.
-- Web Dev: [IVAO CO](https://github.com/IVAO-Colombia/co-web) & related pages.
-- [Sectorfile Dev](https://github.com/IVAO-Colombia/CO-Aurora-Sectorfile)
+- [IVAO CO:](https://github.com/IVAO-Colombia/co-web) Divisional page
+- [Aurora Sector CO file:](https://github.com/IVAO-Colombia/CO-Aurora-Sectorfile) Aurora page
+
 
 >[!NOTE]
 > Community Collaboration: A space for IVAO members to contribute and collaborate on division-specific projects.
